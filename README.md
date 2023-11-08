@@ -1,15 +1,17 @@
-# ddu-intro.github.io
-introduktion til ddu vaerksted
+# Introduktion til ddu vaerksted
+
+Velkommen til introduktion til ddu værkstedet
 
 -------------------------------------------
 
 ## 1. modul
 
 - intro til udleveret kode
-
-    - kode1 : kage liste generator 
+    - kode1 : hvordan opfanges et klik-event med js og html
+        - [klik event](klikevent/index.html)
+    - kode2 : kage liste generator 
         - [se kagelisten her](kagelisten/index.html) 
-    - kode2 : gem informationen i localstorage 
+    - kode3 : informationen gemmes i localstorage 
         - [gem et tal her](gemdata/index.html)
 - intro til material og dokumentation
 

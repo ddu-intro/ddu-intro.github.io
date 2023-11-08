@@ -1,0 +1,13 @@
+<p id="id1">Dette er en tekst</p>
+
+<script>
+    let tryk = 0;
+
+    document.getElementById("id1").addEventListener("click",handleClick);
+
+    function handleClick(event){
+        tryk ++;
+        event.target.textContent = "Nu har jeg trykket på den!" + tryk;
+    }
+
+</script>
