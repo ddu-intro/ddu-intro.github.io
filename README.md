@@ -26,17 +26,17 @@ En af de mest populære og overskuelige kilder er:
 
 ## Del 1 : kode-opgaven
 
-### Inroduktion til html, css og javascript-koden
+### Introduktion til html, css og javascript-koden
 
-- html/css eksempel
-- javascript event-handling eksempel
-- local storage eksempel
+- [eksempel : html/css eksempel](eksempel_eventhandling.md)
+- [eksempel : javascript event](eksempel_eventhandling.md)
+- [eksempel : local storage](eksempel_localstorage.md)
 
 ### Kodeopgaven 
 
 Byg en interaktiv kageliste med localstorage-database.
 
-- Listen skal indeholde mindst 5 personer
+- Listen skal indeholde mindst 3 personer
 - Sitet skal være pænt sat op med forskellige farver, overskrifter og et eventuelt baggrundsbillede
 - Det skal være muligt både at forøge og reducere antal kager en person har haft med
 - Alt data skal gemmes i browserens indbyggede localstorage database
