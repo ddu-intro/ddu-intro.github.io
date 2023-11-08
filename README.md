@@ -8,11 +8,11 @@ Velkommen til introduktion til ddu værkstedet
 
 - intro til udleveret kode
     - kode1 : hvordan opfanges et klik-event med js og html
-        - [klik event](klikevent/index.html)
+        - [klik event](klikevent.zip)
     - kode2 : kage liste generator 
-        - [se kagelisten her](kagelisten/index.html) 
+        - [se kagelisten her](kagelisten.zip) 
     - kode3 : informationen gemmes i localstorage 
-        - [gem et tal her](gemdata/index.html)
+        - [gem et tal her](gemdata.zip)
 - intro til material og dokumentation
 
 Opgaven 
