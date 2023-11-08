@@ -1,25 +1,27 @@
 # Introduktion til ddu vaerksted
 
-Velkommen til introduktion til ddu værkstedet
+Velkommen til tre modulers introduktion til ddu værkstedet.
+I skal i disse moduler kigge på de krav og dokumentations-former der eksisterer ifm. et ddu-projekt.
+Desuden skal i også lave et lille mini website der opfylder kravene til et ddu projekt. 
 
 -------------------------------------------
 
-## 1. modul
+## 1. modul og 2. modul
 
 - intro til udleveret kode
     - kode1 : hvordan opfanges et klik-event med js og html
-        - [klik event](klikevent.zip)
+        - [hent koden](klikevent.zip)
     - kode2 : kage liste generator 
-        - [se kagelisten her](kagelisten.zip) 
+        - [hent koden](kagelisten.zip) 
     - kode3 : informationen gemmes i localstorage 
-        - [gem et tal her](gemdata.zip)
+        - [hent koden](gemdata.zip)
 - intro til material og dokumentation
 
 Opgaven 
 - modificer html-filen så der er en meningsfuld overskrift: 
-    - læs om html tags her: [https://www.w3schools.com/html/html_intro.asp](https://www.w3schools.com/html/html_intro.asp)
+    - [læs om html](https://www.w3schools.com/html/html_intro.asp)
 - modificer html-filen så i anvender forskellige fonts og farver 
-    - læs om styles her: [https://www.w3schools.com/html/html_styles.asp](https://www.w3schools.com/html/html_styles.asp)
+    - [læs om styles](https://www.w3schools.com/html/html_styles.asp)
 - modificer js-filen så det er de rigtige navne, der vises
     - se den eksisterende kode
 - byg en "tælle op" og "tælle ned" funktionalitet
@@ -27,13 +29,19 @@ Opgaven
 
 -------------------------------------------
 
-## 2. modul
+## 3. modul
 
-- arbejd selv
+- intro til dokumentation i ddu
+    - wireframes
+    - usecase-diagrammer
+    - flowcharts
+    - pseudokode
+
+Opgaven
+    - lav et usecase-diagram til en ...
 
 -------------------------------------------
 
-## 3. modul
+## Afslutning
 
 Præsentationer
-- 
