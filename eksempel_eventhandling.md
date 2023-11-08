@@ -7,22 +7,19 @@ Funktiomaliteteten kan være mange forskellige ting, men specielt det and håndt
 
 Nedenfor ses en html og js kode blandet sammen:
 
-```javascript
-
-<p id="p1" onclick="handleClick('p1')" style="display:inline;">Tryk på denne tekst</p>
+```html
+<h2>Spændende website med events...</h2>
+<p id="p1">Tryk på knappen</p>
 <button onclick="handleClick('p1')">KLIK</button>
 
 <script>
-
     let tryk = 0;
 
     function handleClick(id){
         let id1 = document.getElementById(id);
         tryk++;
-        id1.innerText = "Du har trykket på denne tekst " + tryk + " gange ";
+        id1.innerText = "Du har trykket på knappen " + tryk + " gange ";
     }
-
 </script>
-
 ```
 
