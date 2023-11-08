@@ -1,13 +1,23 @@
-<p id="id1">Dette er en tekst</p>
+<style>
+    * {
+        color:white;
+        background-color: black;
+    }
+
+</style>
+
+<h2>Dette er en kageliste...</h2>
+<p id="p1" onclick="handleClick('p1')" style="display:inline;">Tryk på denne tekst</p>
+<button onclick="handleClick('p1')">KLIK</button>
 
 <script>
+
     let tryk = 0;
 
-    document.getElementById("id1").addEventListener("click",handleClick);
-
-    function handleClick(event){
-        tryk ++;
-        event.target.textContent = "Nu har jeg trykket på den!" + tryk;
+    function handleClick(id){
+        let id1 = document.getElementById(id);
+        tryk++;
+        id1.innerText = "Du har trykket på denne tekst " + tryk + " gange ";
     }
 
 </script>

@@ -1,47 +1,46 @@
-# Introduktion til ddu vaerksted
+# ddu værksteds introduktion
 
-Velkommen til tre modulers introduktion til ddu værkstedet.
-I skal i disse moduler kigge på de krav og dokumentations-former der eksisterer ifm. et ddu-projekt.
-Desuden skal i også lave et lille mini website der opfylder kravene til et ddu projekt. 
+Velkommen til tre modulers introduktion til ddu værkstedet.    
+I skal i disse moduler kigge på de krav og dokumentations-former, der eksisterer ifm. et ddu-projekt.    
+Desuden skal i også lave et lille mini website, der opfylder kravene til et ddu projekt. 
 
--------------------------------------------
+--------------------------------
 
-## 1. modul og 2. modul
+## Værktøjer
 
-- intro til udleveret kode
-    - kode1 : hvordan opfanges et klik-event med js og html
-        - [hent koden](klikevent.zip)
-    - kode2 : kage liste generator 
-        - [hent koden](kagelisten.zip) 
-    - kode3 : informationen gemmes i localstorage 
-        - [hent koden](gemdata.zip)
-- intro til material og dokumentation
+Som værktøj til at lave jeres website anbefales at downloade visual studio code:    
+[https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-Opgaven 
-- modificer html-filen så der er en meningsfuld overskrift: 
-    - [læs om html](https://www.w3schools.com/html/html_intro.asp)
-- modificer html-filen så i anvender forskellige fonts og farver 
-    - [læs om styles](https://www.w3schools.com/html/html_styles.asp)
-- modificer js-filen så det er de rigtige navne, der vises
-    - se den eksisterende kode
-- byg en "tælle op" og "tælle ned" funktionalitet
-- gem alle elevers kage-info
+Alternativt kan man anvende w3schools online frontend editor:    
+[https://www.w3schools.com/tryit/](https://www.w3schools.com/tryit/)
 
--------------------------------------------
+--------------------------------
 
-## 3. modul
+## Materiale og dokumentation
 
-- intro til dokumentation i ddu
-    - wireframes
-    - usecase-diagrammer
-    - flowcharts
-    - pseudokode
+Der findes selvfælgelig rigtig meget information om web-udvikling på nettet.  
+En af de mest populære og overskuelige kilder er:
+[https://www.w3schools.com/](https://www.w3schools.com/)
 
-Opgaven
-    - lav et usecase-diagram til en ...
+--------------------------------
 
--------------------------------------------
+## Del 1 : kode-opgaven
 
-## Afslutning
+### Inroduktion til html, css og javascript-koden
 
-Præsentationer
+- html/css eksempel
+- javascript event-handling eksempel
+- local storage eksempel
+
+### Kodeopgaven 
+
+Byg en interaktiv kageliste med localstorage-database.
+
+- Listen skal indeholde mindst 5 personer
+- Sitet skal være pænt sat op med forskellige farver, overskrifter og et eventuelt baggrundsbillede
+- Det skal være muligt både at forøge og reducere antal kager en person har haft med
+- Alt data skal gemmes i browserens indbyggede localstorage database
+
+--------------------------------
+
+## Del 2 : dokumentations-opgaven
