@@ -5,21 +5,26 @@ introduktion til ddu vaerksted
 
 ## 1. modul
 
-- intro til stackblitz
 - intro til udleveret kode
+    - kode1 : kage liste generator [se kagelisten her](kagelisten/index.html) 
+    - kode2 : gem informationen i localstorage [gem et tal her](gemdata/index.html)
 - intro til material og dokumentation
 
-- arbejd selv 
+Opgaven
+- lav mere html med verskrifter osv. og styles
+- lav flere navne
+- byg en "tæl op" / "tæl ned" / "reset" for de enkle elever
+- gem alle elevers kage-info
 
 -------------------------------------------
 
 ## 2. modul
 
 - arbejd selv
-- 
+
 -------------------------------------------
 
 ## 3. modul
 
-- arbejd selv
+Præsentationer
 - 
