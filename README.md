@@ -8,10 +8,10 @@ Desuden skal i også lave et lille mini website, der opfylder kravene til et ddu
 
 ## Værktøjer
 
-Som værktøj til at lave jeres website anbefales at downloade visual studio code:    
+Som værktøj til at lave jeres website anbefales det at i downloader visual studio code:    
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-Alternativt kan man anvende w3schools online frontend editor:    
+Alternativt kan man anvende w3schools online frontend editor, hvis man har problemer med download:      
 [https://www.w3schools.com/tryit/](https://www.w3schools.com/tryit/)
 
 --------------------------------
