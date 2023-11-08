@@ -19,7 +19,7 @@ Alternativt kan man anvende w3schools online frontend editor, hvis man har probl
 ## Materiale og dokumentation
 
 Der findes selvfælgelig rigtig meget information om web-udvikling på nettet.  
-En af de mest populære og overskuelige kilder er:
+En af de mest populære og overskuelige kilder er:     
 [https://www.w3schools.com/](https://www.w3schools.com/)
 
 --------------------------------
@@ -44,3 +44,4 @@ Byg en interaktiv kageliste med localstorage-database.
 --------------------------------
 
 ## Del 2 : dokumentations-opgaven
+
