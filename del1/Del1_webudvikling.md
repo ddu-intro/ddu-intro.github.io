@@ -19,6 +19,9 @@ Download "visual studio code", eller anvend en online editor som f.eks. w3school
 ### Kodeopgaven 
 
 - Listen skal indeholde mindst 3 personer
+
 - Sitet skal være pænt sat op med forskellige farver, overskrifter og et eventuelt baggrundsbillede
+
 - Det skal være muligt både at forøge og reducere antal kager en person har haft med
+
 - Alt data skal gemmes i browserens indbyggede localstorage database
