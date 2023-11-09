@@ -1,4 +1,4 @@
-# ddu værksteds introduktion
+# Introduktion til ddu værkstedet
 
 Velkommen til tre modulers introduktion til ddu værkstedet.    
 Digitalt design og udvikling (forkortet ddu), er et teknikfag hvor man arbejder med softwareudvikling.   
