@@ -6,6 +6,6 @@ Desuden skal i også lave et lille mini website, der opfylder kravene til et ddu
 
 --------------------------------
 
-<a href="Del1_webudvikling" style="font-size:30px;">Del 1 : Udvikling af website</a>
+<a href="Del1_webudvikling" style="font-size:25px;">Del 1 : Udvikling af website</a>
 
-<a href="del1_udvikling" style="font-size:30px;">Del 2 : Dokumentation og krav til et ddu-projekt</a>
+<a href="del1_udvikling" style="font-size:25px;">Del 2 : Dokumentation og krav til et ddu-projekt</a>

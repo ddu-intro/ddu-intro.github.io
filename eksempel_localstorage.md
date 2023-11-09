@@ -1,0 +1,1 @@
+# Eksempel : local storage

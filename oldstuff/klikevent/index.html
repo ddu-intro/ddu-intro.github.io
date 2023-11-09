@@ -1,7 +1,6 @@
-
 <h2>Spændende website med events...</h2>
 <p id="p1">Tryk på knappen</p>
-<button onclick="handleClick('p1')">KLIK</button>
+<button onclick="handleClick('p1')">KLIK HER!</button>
 
 <script>
     let tryk = 0;
@@ -9,6 +8,6 @@
     function handleClick(id){
         let id1 = document.getElementById(id);
         tryk++;
-        id1.innerText = "Du har trykket på knappen " + tryk + " gange ";
+        id1.innerHTML = "Du har trykket på knappen " + tryk + " gange ";
     }
 </script>
