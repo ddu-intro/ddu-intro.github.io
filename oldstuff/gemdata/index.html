@@ -1,29 +1,16 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
     
-    <p id="p1">Value fra databasen:</p>
-    <p id="p2">0</p>
+    <p id="id1">Her står data fra databasen</p>
+    <button onclick="doStuff()">KLIK HER!</button>
 
     <script>
-        let dataFraDatabasen = localStorage.getItem("p2");
+        //Number funktionen anvendes til at sikre antalKlik er et tal!
+        let antalKlik = Number(localStorage.getItem("data"));
 
-        if(dataFraDatabasen == ""){ 
-            document.getElementById("p2").textContent = "0";
-        }
-
-        document.getElementById("p2").addEventListener("click",doStuff);
-        
-        function doStuff(event){
-            event.target.textContent = Number(event.target.textContent) +1;
-            localStorage.setItem(event.target.id , event.target.textContent);
+        function doStuff(){
+            antalKlik++;
+            document.getElementById("id1").innerHTML = antalKlik;
+            localStorage.setItem("data",antalKlik);
         }
 
     </script>
 
-</body>
-</html>

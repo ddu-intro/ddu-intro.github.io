@@ -1,0 +1,15 @@
+    
+    <p id="id1">0</p>
+    <button onclick="doStuff('+1')">TÆL OP!</button>
+    <button onclick="doStuff('-1')">TÆL NED!</button>
+
+    <script>
+        let v = 0;
+
+        function doStuff(t){
+            v = v + Number(t) ;
+            document.getElementById("id1").innerHTML = v;
+        }
+
+    </script>
+

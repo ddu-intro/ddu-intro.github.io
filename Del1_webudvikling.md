@@ -12,8 +12,9 @@ Download "visual studio code", eller anvend en online editor som f.eks. w3school
 ### Introduktion til html, css og javascript-koden
 
 - [eksempel : html/css eksempel](eksempel_eventhandling.md)
-- [eksempel : javascript event](eksempel_eventhandling.md)
-- [eksempel : local storage](eksempel_localstorage.md)
+- [eksempel : javascript event](eksempel2_eventhandling.md)
+- [eksempel : local storage](eksempel3_localstorage.md)
+- [eksempel : if](eksempel4_if.md) 
 
 ### Kodeopgaven 
 
