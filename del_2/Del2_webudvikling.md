@@ -2,11 +2,10 @@
 
 Byg en interaktiv kageliste, der gemmer alt information i localstorage.
 
-## Anbefalede værktøjer
+## Anbefalede værktøj
+Microsofts meget populære "visual studio code", som online version 
+- [https://vscode.dev/](https://vscode.dev/)
 
-Download "visual studio code", eller anvend en online editor som f.eks. w3schools's.
-- [https://code.visualstudio.com/](https://code.visualstudio.com/)
-- [https://www.w3schools.com/tryit/](https://www.w3schools.com/tryit/)
 
 
 ### Introduktion til html, css og javascript-koden
