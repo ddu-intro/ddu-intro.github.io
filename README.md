@@ -7,6 +7,7 @@ Desuden skal i også lave et lille mini website, der opfylder kravene til et ddu
 
 --------------------------------
 
-### [Del 1 : Udvikling af website](del1/Del1_webudvikling.md)
+### [Del 1 : Dokumentation og krav til et ddu-projekt](del_1/Del1_dokumentation.md)
 
-### [Del 2 : Dokumentation og krav til et ddu-projekt](del2/Del2_dokumentation.md)
+### [Del 2 : Udvikling af website](del_2/Del2_webudvikling.md)
+

@@ -1,4 +1,4 @@
-# Del 1 : kode-opgaven
+# Del 2 : kode-opgaven
 
 Byg en interaktiv kageliste, der gemmer alt information i localstorage.
 
