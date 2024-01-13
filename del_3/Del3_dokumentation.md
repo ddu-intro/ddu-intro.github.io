@@ -4,7 +4,7 @@
 - [UseCaseDiagramIntro.pdf](UseCaseDiagramIntro.pdf)
 
 ## Flow charts
-- [intro](intro_flowchart.md)
+- [intro](intro_flowchart.pdf)
 - [film](film_flowchart.md)
 - [opgaver](opgaver_flowchart.md)
 
