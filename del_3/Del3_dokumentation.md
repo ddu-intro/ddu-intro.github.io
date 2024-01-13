@@ -8,6 +8,6 @@
 - [intro film](film_flowchart.md)
 - [opgaver](opgaver_flowchart.md)
 
-## Sekvensdiagrammer
+## Sekvens diagrammer
 - [intro film](intro_sekvens.md)
 - [opgaver](opgaver_sekvens.md)
