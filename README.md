@@ -8,7 +8,7 @@ Sidste og tredje del indeholder tre forskellige dokumentationsformer aka diagram
 
 --------------------------------
 
-### [Del 1 : Krav til et ddu-projektet](del_1/Del1_krav.md)
+### [Del 1 : Krav til et ddu-projekt](del_1/Del1_krav.md)
 
 ### [Del 2 : Udvikling af website](del_2/Del2_webudvikling.md)
 
