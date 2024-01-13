@@ -1,7 +1,7 @@
 # Del 3 : Dokumentation i et ddu-projekt
 
 ## Use case diagrammer og opgave:
-- [pdf med intro og opgaver](UseCaseDiagramIntro.pdf)
+- [pdf med intro og opgaver](intro_usecase.pdf)
 
 ## Flow charts
 - [pdf med intro](intro_flowchart.pdf)
