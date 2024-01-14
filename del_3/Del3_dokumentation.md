@@ -11,3 +11,6 @@
 ## Sekvens diagrammer
 - [intro film](intro_sekvens.md)
 - [opgaver](opgaver_sekvens.md)
+
+## Ekstra opgave : digrammer til "ddu-projektet", kagelisten
+- [ekstra opgaven](ekstra_opgave.md)
